@@ -1,5 +1,5 @@
 <h1> Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Souza Mainiere </h1>
-<p>I'm in graduating in information Systems at CEFET-RJ, actually, in the third semester. I love the world of technology and i'm enthusiastyc passionate about codes, transforming ideas into lines, that creat innovate solutions in the vast universe of programming. 🎓💻</p>
+<p>I'm in graduating in information Systems at CEFET-RJ, actually, in the fourth semester. I love the world of technology and i'm enthusiastyc passionate about codes, transforming ideas into lines, that creat innovate solutions in the vast universe of programming. 🎓💻</p>
 <br>
 
 ## 🛠️ My Tech Stacks
